@@ -1,3 +1,8 @@
+# Instruções para teste técnico de Frontend
+
+As instrução para a realização do teste técnico esta localizada no seguinte PDF:
+[Teste técnico de frontend](./docs/InstruçõesTesteTécnicoFrontend.pdf)
+
 # Companies API
 
 Para que o projeto funcione em sua maquina, é necessário que tenha o Docker instalado e também o Docker Compose.
