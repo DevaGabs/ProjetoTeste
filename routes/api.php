@@ -9,7 +9,7 @@ use App\Http\Controllers\Api\{
 
 use Illuminate\Support\Facades\Route;
 
-Route::group(['middleware' => 'jwt.middleware'], function ($router) {
+Route::group([], function ($router) {
 
     // Auth
     Route::group(['prefix' => 'auth'], function () {
