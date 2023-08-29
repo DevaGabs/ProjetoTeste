@@ -9,6 +9,13 @@ Para que o projeto funcione em sua maquina, é necessário que tenha o Docker in
 
 A configuração padrão permitirá que o projeto execute na porta 8080 em localhost.
 
+
+#### Dados do usuário disponível para autenticação na api pós-instalação:
+
+login: `admin@admin.com`
+
+senha: `admin`
+
 ## Instalação
 
 Clone o repositório com o comando a seguir:
